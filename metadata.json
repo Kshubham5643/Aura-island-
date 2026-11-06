@@ -1,0 +1,6 @@
+{
+  "name": "Aura Island - Windows Dynamic Island & Glass HUD",
+  "description": "Ultra-optimized, low-resource Dynamic Island glass widget for Windows laptops with real-time media playback, audio spectrum visualizer, system telemetry, timers, and fluid morphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
